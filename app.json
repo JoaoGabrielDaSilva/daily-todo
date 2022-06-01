@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "dailyTodo",
+    "slug": "dailyTodo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
